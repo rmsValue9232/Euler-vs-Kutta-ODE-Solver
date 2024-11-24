@@ -1,8 +1,4 @@
-# Assignment 3 : ODE Solver
-
-## MA5741 - Object Oriented Programming
-
-## Aditya Kumar - MA24M001 - IIT Madras
+# ODE Solver
 
 1. Compile executable using
 
